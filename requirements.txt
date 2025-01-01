@@ -1,0 +1,16 @@
+Flask
+Flask-WTF
+WTForms
+opencv-python
+numpy
+ultralytics
+shapely
+openpyxl
+pytube
+yt-dlp
+gunicorn
+flask-ngrok
+pyngrok
+requests
+python-gnupg
+python-dotenv
